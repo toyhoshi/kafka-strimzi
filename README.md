@@ -1,2 +1,2 @@
-# kafka-strimzi
-Local test with strimzi
+# Kafka/Strimzi
+Local test using minikube with Kafka and Strimzi.
